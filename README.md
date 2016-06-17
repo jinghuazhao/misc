@@ -23,7 +23,7 @@ Zhao, J. H., Luan, J. A., Tan, Q., Loos, R. F. J., Wareham, N. J. (2007). "Analy
 
 LDSHELL
 
-Noonan, J.P., Li, J., Nguyen, L., Caolie, C., Dickson, M., Grimwood, J., Schmutz, J., Feldman, M. W., Myers, R. M.  (2003), ‘Extensive linkage disequilibrium, a common 16.7-kilobase deletion, and evidence of balancing selection in the human protocadherin alpha cluster’, Am. J. Hum. Genet.Vol. 72, pp. 621–635
+Noonan, J.P., Li, J., Nguyen, L., Caolie, C., Dickson, M., Grimwood, J., Schmutz, J., Feldman, M. W., Myers, R. M.  (2003), ‘Extensive linkage disequilibrium, a common 16.7-kilobase deletion, and evidence of balancing selection in the human protocadherin alpha cluster’, Am. J. Hum. Genet. 72, 621–635
 
 
 QTLSIM
