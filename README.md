@@ -1,4 +1,4 @@
-# JHZmisc
+# misc
 Miscellaneous programs
 
 This repository contains various programs and utilities.
