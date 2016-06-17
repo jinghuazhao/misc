@@ -26,6 +26,10 @@ LDSHELL
 Noonan, J.P., Li, J., Nguyen, L., Caolie, C., Dickson, M., Grimwood, J., Schmutz, J., Feldman, M. W., Myers, R. M.  (2003), ‘Extensive linkage disequilibrium, a common 16.7-kilobase deletion, and evidence of balancing selection in the human protocadherin alpha cluster’, Am. J. Hum. Genet.Vol. 72, pp. 621–635
 
 
+QTLSIM
+
+Sham, P. C., Zhao, J. H. (2000). "The power of genome-wide sib pair linkage scans for quantitative trait loci using the new Haseman-Elston regression method". Gene Screen, 1, 103-106
+
 TWIN
 
 Zhao, J. H., and Sham, P. C. (1998). "A method for calculating probability convolution using ternary numbers with application in the determination of twin zygosity". Computional Statistics and Data Analysis, 28, 225-232
