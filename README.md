@@ -17,7 +17,7 @@ Sham, P. C., Zhao, J. H., Cherny, S. S., Hewitt, J. K. (2000). [Variance compone
 
 **GO**
 
-Zhao, J. H., Luan, J. A., Tan, Q., Loos, R. F. J., Wareham, N. J. (2007). [Analysis of Large Genomic Data in Silico: The EPIC-Norfolk Study of Obesity](https://github.com/jinghuazhao/GDCT/blob/master/doc/ICIC2007.pdf). ICIC'07
+Zhao, J. H., Luan, J. A., Tan, Q., Loos, R. F. J., Wareham, N. J. (2007). [Analysis of Large Genomic Data in Silico: The EPIC-Norfolk Study of Obesity](https://jinghuazhao.github.io/paper/ICIC2007.pdf). ICIC'07
 
 
 **LDSHELL**
