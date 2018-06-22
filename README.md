@@ -7,8 +7,7 @@ This repository contains various programs and utilities.
 
 **DISCORD**
 
-Karwautz A., Rabe-Hesketh S., Hu X., Zhao J., Sham P., Collier D. A., Treasure J. L. (2001). [Individual-specific risk factors for anorexia nervosa: a pilot study using a discordant sister-pair design](https://jinghuazhao.github.io/paper/
-karwautz01.pdf). Psychological Medicine, 31(2):317-29
+Karwautz A., Rabe-Hesketh S., Hu X., Zhao J., Sham P., Collier D. A., Treasure J. L. (2001). [Individual-specific risk factors for anorexia nervosa: a pilot study using a discordant sister-pair design](https://jinghuazhao.github.io/paper/karwautz01.pdf). Psychological Medicine, 31(2):317-29
 
 
 **GEMINI**
